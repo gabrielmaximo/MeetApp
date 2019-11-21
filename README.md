@@ -11,5 +11,4 @@
 - expres
 - postgreSQL
 - redis
-- mongoDB
 - ORM sequelize
